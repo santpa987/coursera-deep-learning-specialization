@@ -1,10 +1,1 @@
 # coursera-deep-learning-specialization
-
-
-
-
-
-
-
-
-
